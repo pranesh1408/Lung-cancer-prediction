@@ -23,16 +23,5 @@ This project analyzes lung cancer patient data to predict survival outcomes usin
 - Address class imbalance (SMOTE, class weights).  
 - Try survival analysis models (Cox Proportional Hazards).  
 - Feature engineering for non-linear relationships.  
-
-### **How to Run**  
-1. Install dependencies:  
-   ```bash
-   pip install pandas numpy seaborn matplotlib scikit-learn
-   ```  
-2. Run the Jupyter notebook (`Lung_Cancer_Prediction.ipynb`).  
-
 ### **Dataset**  
-[Download here](https://www.kaggle.com/datasets/khwaishsaxena/lung-cancer-dataset) (replace with actual source).  
-
----  
-**Note**: This is a simplified version. For detailed analysis, check the full notebook.
+[Download here](https://www.kaggle.com/datasets/khwaishsaxena/lung-cancer-dataset)   
